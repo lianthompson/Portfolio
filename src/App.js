@@ -9,8 +9,8 @@ class App extends Component {
       <div className="App">
         <Navbars />
         <Views />
-            <div>
-                <img src={require("./image/IMG_2472.png")} />
+            <div className="profile">
+                <img src={require("./image/headshot.png")} />
             </div>   
       </div>
     );

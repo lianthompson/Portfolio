@@ -7,9 +7,6 @@ class Views extends Component {
     render() {
         return(
             <Jumbotron>
-                <div>
-                <img src={require("./image/IMG_2472.png")} />
-                </div>
                 <h1>Lian Thompson</h1>
                 <p>
                     I'm a full-stack software developer in San Francisco. My specialty is Javascript + MySQL, React, & Node.
