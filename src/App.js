@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Navbars from './components/Navbar';
+import Views from './components/View';
 import './App.css';
 
 class App extends Component {
@@ -7,11 +8,10 @@ class App extends Component {
     return (
       <div className="App">
         <Navbars />
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-
-        
+        <Views />
+            <div>
+                <img src={require("./image/IMG_2472.png")} />
+            </div>   
       </div>
     );
   }

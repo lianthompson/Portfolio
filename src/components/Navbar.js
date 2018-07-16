@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // eslint-disable-next-line
 import { Navbar, NavItem, Nav } from 'react-bootstrap';
-// import './Navbars.css';
+import './Navbar.css';
 
 class Navbars extends Component {
     //the following code is for Auth0
@@ -35,23 +35,25 @@ class Navbars extends Component {
 
     render() {
         return (
-            <div>
-                <Navbar fluid>
+            <div className="navbar">
+                <Navbar collapseOnSelect>
                     <Navbar.Header>
                         <Navbar.Brand>
                             <a href="/">Lian Thompson</a>
                         </Navbar.Brand>
+                        <Navbar.Toggle />
                     </Navbar.Header>
+                    <Navbar.Collapse>
                     <Nav pullRight>
 
                         <NavItem eventKey={2} href="Projects"
                             onClick={this.goTo.bind(this, 'Projects')}
-                        > Projects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+                        > Projects
                 </NavItem>
 
                         <NavItem eventKey={3} href="Resume"
                             onClick={this.goTo.bind(this, 'Resume')}
-                        > Resume&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+                        > Resume
                 </NavItem>
 
                         <NavItem eventKey={4} href="Contact"
@@ -59,6 +61,7 @@ class Navbars extends Component {
                         > Contact
                 </NavItem>
                     </Nav>
+                    </Navbar.Collapse>
                 </Navbar>
             </div>
         );
