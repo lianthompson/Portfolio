@@ -17,7 +17,9 @@ class Contact extends Component {
                     <br/>
                 </div>
                     <br/>
-                <p>I'm currently looking for new work opportuntites. If you'd like to collaborate on a project, drop me a line!</p>
+                    <div id="contact-content">
+                        <p>I'm currently looking for new work opportuntites. If you'd like to collaborate on a project, drop me a line!</p>
+                    </div>
             </div>
         );
     }

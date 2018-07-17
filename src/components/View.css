@@ -2,5 +2,10 @@
     /* border: 5px solid red; */
     background-color: white !important;
     /* margin-top: 0px; */
+    padding-top: 0%;
     height: 100vh;
+}
+
+.jumbotron-container {
+    padding-top: 40%;
 }

@@ -7,7 +7,13 @@ import './View.css';
 class Views extends Component {
     render() {
         return(
+            <div id="jumbotron-container">
             <Jumbotron>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
                 <h1>LIAN THOMPSON</h1>
                 <p>Full Stack Dev | San Francisco</p>
                 <p>
@@ -17,6 +23,7 @@ class Views extends Component {
                     <Button><a href="https://drive.google.com/file/d/1Yqkt9ePGVfRPJo9iTGfeu3cfLYz4Z6Wg/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></Button>
                 </p>
             </Jumbotron>
+            </div>
         );
     }
 
