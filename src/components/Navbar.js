@@ -14,7 +14,7 @@ class Navbars extends Component {
                 <Navbar collapseOnSelect>
                     <Navbar.Header>
                         <Navbar.Brand>
-                        <Scrollchor to="" className="nav-link">Lian Thompson</Scrollchor>
+                        <a href="/">Lian Thompson</a>
                         </Navbar.Brand>
                         <Navbar.Toggle />
                     </Navbar.Header>
