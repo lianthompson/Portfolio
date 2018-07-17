@@ -1,4 +1,5 @@
-nav.navbar {
+.navbar {
     border: 3px solid green;
-    margin-bottom: 0;
+    margin-bottom: 0px !important;
+    background-color: white !important;
 }

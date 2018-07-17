@@ -2,14 +2,15 @@ import React, { Component } from 'react';
 import { Jumbotron, Button } from 'react-bootstrap';
 import './View.css';
  
- 
+
+
 class Views extends Component {
     render() {
         return(
             <Jumbotron>
-                <h1>Lian Thompson</h1>
+                <h1>Hello, I'm Lian!</h1>
                 <p>
-                    I'm a full-stack software developer in San Francisco. My specialty is Javascript + MySQL, React, & Node.
+                    Full Stack Dev +  Code + Cats + Caffeine
                 </p>
                 <p>
                     <Button bsStyle="primary">Learn more</Button>

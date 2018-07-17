@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 // eslint-disable-next-line
+// import Scrollchor from 'react-scrollchor';
 import { Navbar, NavItem, Nav } from 'react-bootstrap';
 import './Navbar.css';
+
 
 class Navbars extends Component {
     //the following code is for Auth0
@@ -49,17 +51,15 @@ class Navbars extends Component {
                         <NavItem eventKey={2} href="Projects"
                             onClick={this.goTo.bind(this, 'Projects')}
                         > Projects
-                </NavItem>
-
+                        </NavItem>
                         <NavItem eventKey={3} href="Resume"
                             onClick={this.goTo.bind(this, 'Resume')}
-                        > Resume
-                </NavItem>
-
+                        >Resume
+                        </NavItem>
                         <NavItem eventKey={4} href="Contact"
                             onClick={this.goTo.bind(this, 'Contact')}
                         > Contact
-                </NavItem>
+                        </NavItem>
                     </Nav>
                     </Navbar.Collapse>
                 </Navbar>
