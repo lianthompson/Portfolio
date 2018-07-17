@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // eslint-disable-next-line
-// import Scrollchor from 'react-scrollchor';
+import Scrollchor from 'react-scrollchor';
 import { Navbar, NavItem, Nav } from 'react-bootstrap';
 import './Navbar.css';
 
@@ -41,25 +41,17 @@ class Navbars extends Component {
                 <Navbar collapseOnSelect>
                     <Navbar.Header>
                         <Navbar.Brand>
-                            <a href="/">Lian Thompson</a>
+                        <Scrollchor to="" className="nav-link">Lian Thompson</Scrollchor>
                         </Navbar.Brand>
                         <Navbar.Toggle />
                     </Navbar.Header>
                     <Navbar.Collapse>
                     <Nav pullRight>
 
-                        <NavItem eventKey={2} href="Projects"
-                            onClick={this.goTo.bind(this, 'Projects')}
-                        > Projects
-                        </NavItem>
-                        <NavItem eventKey={3} href="Resume"
-                            onClick={this.goTo.bind(this, 'Resume')}
-                        >Resume
-                        </NavItem>
-                        <NavItem eventKey={4} href="Contact"
-                            onClick={this.goTo.bind(this, 'Contact')}
-                        > Contact
-                        </NavItem>
+                        <NavItem><Scrollchor to="#Resume" className="nav-link">Resume</Scrollchor></NavItem>
+                        <NavItem><Scrollchor to="#About Me" className="nav-link">About Me</Scrollchor></NavItem>
+                        <NavItem><Scrollchor to="#Projects" className="nav-link">Projects</Scrollchor></NavItem>
+
                     </Nav>
                     </Navbar.Collapse>
                 </Navbar>
