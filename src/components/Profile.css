@@ -6,3 +6,8 @@
     width: 500px;
     text-align: center;
 } */
+
+#profile-container {
+    padding-top: 5%;
+    height: 100vh;
+}
