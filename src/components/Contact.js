@@ -8,6 +8,7 @@ class Contact extends Component {
         return (
             <div id="Contact">
                 <h1>GET AT ME</h1>
+                <p>I'm currently looking for new work opportuntites. If you'd like to collaborate on a project, drop me a line!</p>
             </div>
         );
     }

@@ -10,7 +10,7 @@ class Profile extends Component {
                 <br/>
                 <br/>
                 <br/>
-                <p>I'm Lian, a Web Developer based in San Francisco, CA. My specialty is Javascript with MySQL, Express, React & Node. I'm currently looking for new work opportuntites. If you'd like to collaborate on a project, drop me a line!</p>
+                <p>I'm Lian, a Web Developer based in San Francisco, CA. My specialty is Javascript with MySQL, Express, React & Node. When I'm not coding, I like to urban hike around the city, practice yoga, & consume mountains of food.</p>
             </div>  
 
         )}
