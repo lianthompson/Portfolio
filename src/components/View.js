@@ -9,9 +9,9 @@ class Views extends Component {
         return(
             <Jumbotron>
                 <h1>LIAN THOMPSON</h1>
-                <p>San Francisco</p>
+                <p>Full Stack Dev | San Francisco</p>
                 <p>
-                    Full Stack Dev +  Code + Cats + Caffeine
+                  Code + Cats + Caffeine
                 </p>
                 <p>
                     <Button><a href="https://drive.google.com/file/d/1Yqkt9ePGVfRPJo9iTGfeu3cfLYz4Z6Wg/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></Button>

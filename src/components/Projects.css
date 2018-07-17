@@ -1,0 +1,8 @@
+#project-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 8% 0% 25% 0%;
+}
+
+/* .giphy {
+} */

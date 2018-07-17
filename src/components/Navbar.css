@@ -3,3 +3,7 @@
     margin-bottom: 0px !important;
     background-color: white !important;
 }
+
+a.nav-link {
+    text-decoration: none;
+}
