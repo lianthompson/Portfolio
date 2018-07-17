@@ -13,8 +13,8 @@ class App extends Component {
         <Navbars />
         <div className="content-container">
         <Views />
-        <Profile />
         <Projects />
+        <Profile />
         <Contact />
         </div>
       </div>

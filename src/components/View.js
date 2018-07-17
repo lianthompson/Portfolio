@@ -8,7 +8,8 @@ class Views extends Component {
     render() {
         return(
             <Jumbotron>
-                <h1>Hello, I'm Lian!</h1>
+                <h1>LIAN THOMPSON</h1>
+                <p>San Francisco</p>
                 <p>
                     Full Stack Dev +  Code + Cats + Caffeine
                 </p>

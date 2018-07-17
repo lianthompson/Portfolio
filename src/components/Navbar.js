@@ -20,8 +20,8 @@ class Navbars extends Component {
                     </Navbar.Header>
                     <Navbar.Collapse>
                     <Nav pullRight>
-                        <NavItem><Scrollchor to="#About Me" className="nav-link">About Me</Scrollchor></NavItem>
                         <NavItem><Scrollchor to="#Projects" className="nav-link">Projects</Scrollchor></NavItem>
+                        <NavItem><Scrollchor to="#About Me" className="nav-link">About Me</Scrollchor></NavItem>
                         <NavItem><Scrollchor to="#Contact" className="nav-link">Contact</Scrollchor></NavItem>
 
                     </Nav>
