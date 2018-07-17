@@ -1,4 +1,6 @@
 .navbar {
+    position: sticky !important;
+    top: 0 !important;
     border: 3px solid green;
     margin-bottom: 0px !important;
     background-color: white !important;
