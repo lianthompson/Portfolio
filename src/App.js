@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Navbars from './components/Navbar';
 import Views from './components/View';
+import Profile from './components/Profile';
 import './App.css';
 
 class App extends Component {
@@ -9,9 +10,7 @@ class App extends Component {
       <div className="App">
         <Navbars />
         <Views />
-            <div className="profile">
-                <img src={require("./image/headshot.png")} />
-            </div>   
+        <Profile />
       </div>
     );
   }

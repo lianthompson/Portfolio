@@ -13,7 +13,7 @@ class Views extends Component {
                     Full Stack Dev +  Code + Cats + Caffeine
                 </p>
                 <p>
-                    <Button bsStyle="primary">Learn more</Button>
+                    <Button bsStyle="primary">Learn More</Button>
                 </p>
             </Jumbotron>
         );
