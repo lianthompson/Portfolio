@@ -13,7 +13,7 @@ class Views extends Component {
                     Full Stack Dev +  Code + Cats + Caffeine
                 </p>
                 <p>
-                    <Button bsStyle="primary">Learn More</Button>
+                    <Button><a href="https://drive.google.com/file/d/1Yqkt9ePGVfRPJo9iTGfeu3cfLYz4Z6Wg/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></Button>
                 </p>
             </Jumbotron>
         );
