@@ -12,7 +12,7 @@ class Technology extends Component {
                         <h1 className="title">
                             Full Stack Developer</h1>
                         <br />
-
+                        <div>
                         <Col xs="6" sm="4" >
                             <h2 className="Bold">Frontend:</h2>
                             <p>JavaScript<br />
@@ -43,6 +43,7 @@ class Technology extends Component {
                                 Postman</p>
 
                         </Col>
+                        </div>
                     </Row>
                 </Grid>
 

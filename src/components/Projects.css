@@ -8,5 +8,7 @@
     padding-top: 5%;
 }
 
-/* .giphy {
-} */
+#giphy {
+    size: 2vw;
+    border: 2px green solid;
+}

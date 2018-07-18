@@ -9,3 +9,7 @@
 .jumbotron-container {
     padding-top: 40%;
 }
+
+.jumbotron h1 {
+    font-size: 5vw !important;
+}
