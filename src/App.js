@@ -4,6 +4,7 @@ import Views from './components/View';
 import Profile from './components/Profile';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import Technology from './components/Technology';
 import Footer from './components/Footer';
 import './App.css';
 
@@ -15,6 +16,7 @@ class App extends Component {
         <div className="content-container">
         <Views />
         <Projects />
+        <Technology />
         <Profile />
         <Contact />
         <Footer />

@@ -13,11 +13,11 @@ class Profile extends Component {
                 <br/>
                 <br/>
                     <div className="about">
-                        <p>I'm Lian, a Web Developer based in San Francisco, CA. My specialty is Javascript with MySQL, Express, React & Node.
-                        I have a passion for learning and love discovering new frameworks and libraries to create with!
+                        <p>Aside from coding, I love giving back to the community by volunteering at conferences and meetups. A few that I've been a part of are SXSW, Women Who Code, & Tech in the Tenderloin. 
                         </p>
-                        <p>When I'm not coding, I like to urban hike around the city, practice yoga, & consume mountains of food.</p>
-
+                        <p>I'm also an active member of Write/Speak/Code & Women Who Code's SF chapter.
+                        </p>
+                        <p>When I'm not doing that stuff, I like to urban hike around the city, practice yoga, & consume mountains of food.</p>
                     </div>
                 </div>
             </div> 

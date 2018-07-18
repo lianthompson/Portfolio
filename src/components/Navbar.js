@@ -21,6 +21,7 @@ class Navbars extends Component {
                     <Navbar.Collapse>
                     <Nav pullRight>
                         <NavItem><Scrollchor to="#Projects" className="nav-link">Projects</Scrollchor></NavItem>
+                        <NavItem><Scrollchor to="#Technology" className="nav-link">Technology</Scrollchor></NavItem>
                         <NavItem><Scrollchor to="#About Me" className="nav-link">About Me</Scrollchor></NavItem>
                         <NavItem><Scrollchor to="#Contact" className="nav-link">Contact</Scrollchor></NavItem>
 
