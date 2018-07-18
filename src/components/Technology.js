@@ -12,38 +12,40 @@ class Technology extends Component {
                         <h1 className="title">
                             Full Stack Developer</h1>
                         <br />
-                        <div>
                         <Col xs="6" sm="4" >
                             <h2 className="Bold">Frontend:</h2>
-                            <p>JavaScript<br />
-                                React<br />
-                                jQuery<br />
-                                HTML <br />
-                                CSS <br />
+                            <br />
+                            <p>JavaScript<br /><br />
+                                React<br /><br />
+                                jQuery<br /><br />
+                                HTML <br /><br />
+                                CSS <br /><br />
                             </p>
 
                         </Col>
                         <Col xs="6" sm="4">
                             <h2 className="Bold">Backend:</h2>
-                            <p>Node <br />
-                                Express <br />
-                                MySQL<br />
-                                MongoDB<br /></p>
                             <br />
+                            <p>Node <br /><br />
+                                Express <br /><br />
+                                MySQL<br /><br />
+                                MongoDB<br /><br />
+                                </p>
 
                         </Col>
                         <Col xs="6" sm="4">
                             <h2 className="Bold">Dev Tools:</h2>
-                            <p>Bootstrap<br />
-                                Git<br />
-                                GitHub<br />
-                                Terminal<br />
-                                Visual Studio Code<br />
-                                Sequel Pro<br />
-                                Postman</p>
+                            <br />
+                            <p>Bootstrap<br /><br />
+                                Git<br /><br />
+                                GitHub<br /><br />
+                                Terminal<br /><br />
+                                Visual Studio Code<br /><br />
+                                Sequel Pro<br /><br />
+                                Postman<br /><br />
+                                </p>
 
                         </Col>
-                        </div>
                     </Row>
                 </Grid>
 
