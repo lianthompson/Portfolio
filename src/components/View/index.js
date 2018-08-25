@@ -9,22 +9,14 @@ class Views extends Component {
         return(
             <div id="jumbotron-container">
             <Jumbotron>
-                <br/>
-                <br/>
-                <br/>
-                <br/>
-                <br/>
                 <h1>LIAN THOMPSON</h1>
                 <p>Full Stack Dev | San Francisco</p>
                 <p>
                   Code + Cats + Caffeine
                 </p>
                 <p>
-                <Button><a href="https://drive.google.com/file/d/1Yqkt9ePGVfRPJo9iTGfeu3cfLYz4Z6Wg/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></Button>
+                <Button><a href="https://docs.google.com/document/d/1RXw5ybtroDqMSMjONrkcQBlSZPEc7AO9lTmTGJHVsRo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></Button>
                 </p>
-                    <br />
-                    <br />
-                    <br />
                  <p>I'm Lian, a Web Developer based in San Francisco, CA. My specialty is Javascript with MySQL, Express, React & Node.
                  </p> 
                  <p>I have a passion for learning and love discovering new frameworks and libraries to create with!

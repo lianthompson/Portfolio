@@ -11,5 +11,11 @@
 }
 
 .jumbotron h1 {
+    margin-top: 60px;
     font-size: 5vw !important;
+    font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron p {
+    margin-top: 40px;
 }

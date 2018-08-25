@@ -8,7 +8,7 @@ class Profile extends Component {
             <div id="About Me">
                 <div id="profile-container">
                 <h1>About Me</h1>
-                <img src={require("./image/headshot.png")} />
+                <img src={require("../image/headshot.png")} />
                 <br/>
                 <br/>
                 <br/>

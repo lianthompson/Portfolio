@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import Navbars from './components/Navbar';
-import Views from './components/View';
-import Profile from './components/Profile';
-import Projects from './components/Projects';
-import Contact from './components/Contact';
-import Technology from './components/Technology';
-import Footer from './components/Footer';
+import Navbars from './components/Navbar/index.js';
+import Views from './components/View/index.js';
+import Profile from './components/Profile/index.js';
+import Projects from './components/Projects/index.js';
+import Contact from './components/Contact/index.js';
+import Technology from './components/Technology/index.js';
+import Footer from './components/Footer/index.js';
 import './App.css';
 
 class App extends Component {
