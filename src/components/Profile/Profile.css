@@ -5,6 +5,7 @@
 }
 
 .about {
+    margin-top: 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -12,5 +13,8 @@
 }
 
 .about p{
+    font-size: 21px;
     width: 50%;
+    margin: 0 auto;
+    text-align: center;
 }

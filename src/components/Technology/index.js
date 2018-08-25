@@ -10,8 +10,8 @@ class Technology extends Component {
                 <Grid className="Grid">
                     <Row className="show-grid">
                         <h1 className="title">
-                            Full Stack Developer</h1>
-                        <br />
+                            Full Stack Developer
+                        </h1>
                         <Col xs="6" sm="4" >
                             <h2 className="Bold">Frontend:</h2>
                             <p>React</p>
@@ -42,7 +42,6 @@ class Technology extends Component {
                         </Col>
                     </Row>
                 </Grid>
-
             </div>
         )
     }
