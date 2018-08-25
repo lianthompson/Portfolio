@@ -4,8 +4,10 @@
     border: 3px solid green;
     margin-bottom: 0px !important;
     background-color: white !important;
+    font-family: 'Raleway', sans-serif;
 }
 
 a.nav-link {
     text-decoration: none;
+    font-family: 'Raleway', sans-serif;
 }
