@@ -1,13 +1,5 @@
 #footer-container {
     position: sticky !important;
-    display: flex;
-    flex-direction: column;
     align-items: center;
     font-family: 'Raleway', sans-serif;
-}
-
-#footer-links {
-    width: 20%;
-    display: flex;
-    justify-content: space-between;
 }

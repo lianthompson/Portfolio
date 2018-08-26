@@ -8,7 +8,7 @@ class Profile extends Component {
             <div id="About Me">
                 <div id="profile-container">
                 <h1>About Me</h1>
-                <img src={require("../image/headshot.png")} />
+                <img className="Profile" src={require("../image/headshot.png")} />
                     <div className="about">
                         <p>Aside from coding, I love giving back to the community by volunteering at conferences and meetups. A few that I've been a part of are SXSW, Women Who Code, & Tech in the Tenderloin. 
                         </p>

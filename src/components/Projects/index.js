@@ -7,14 +7,14 @@ class Projects extends Component {
         return (
             <div id="Projects">
                 <h1>Projects</h1>
-            <div id="project-container">
-                <div className="giphy">
+            <div className="project-container">
+                <div id="project">
                 <h3>Giftr</h3>
-                <img src="https://media.giphy.com/media/8ccRgyBzBC2SPxRRhS/giphy.gif" class="img-fluid" alt="demo"/>
+                <img id="giphy" src="https://media.giphy.com/media/8ccRgyBzBC2SPxRRhS/giphy.gif" class="img-fluid" alt="demo"/>
                 </div>
-                <div className="giphy">
+                <div id="project">
                 <h3>Eventful</h3>
-                <img src="https://media.giphy.com/media/65To8Pi2sWmVvjWXpy/giphy.gif" class="img-fluid" alt="demo"/>
+                <img id="giphy" src="https://media.giphy.com/media/65To8Pi2sWmVvjWXpy/giphy.gif" class="img-fluid" alt="demo"/>
                 </div>
             </div>
             </div>

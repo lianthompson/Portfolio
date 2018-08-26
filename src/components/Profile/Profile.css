@@ -19,3 +19,8 @@
     margin: 0 auto;
     text-align: center;
 }
+
+img.Profile {
+    height: 300px;
+    border-radius: 5%;
+}
