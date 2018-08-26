@@ -24,15 +24,21 @@
     display: inline-block;
     width: 30%;
     height: 100%;
+
 }
 .frontend p {
-    padding-bottom: 24px;
+    padding-bottom: 23px;
 }
 
 .backend p {
-    padding-bottom: 66.6px;
+    padding-bottom: 39px;
 }
 
 p {
     font-size: 21px;
+    padding-bottom: 5px;
+}
+
+.header {
+    padding-bottom: 10px;
 }

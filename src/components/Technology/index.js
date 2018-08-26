@@ -9,11 +9,12 @@ class Technology extends Component {
                 <h1 className="header">
                     Full Stack Developer
                 </h1>
+                <p>With Javascript, I can seamlessly transition working from Frontend to Backend.</p>
                 <div className="technology-container">
                     <div className="frontend">
                         <h2>Frontend:</h2>
                             <p>React</p>
-                            <p>JavaScript</p>
+                            <p>Javascript</p>
                             <p>JQuery</p>
                             <p>HTML</p>
                             <p>CSS</p>
@@ -25,6 +26,7 @@ class Technology extends Component {
                             <p>Express</p>
                             <p>MySQL</p>
                             <p>MongoDB</p>
+                            <p>Javascript</p>
                     </div>
                     <div className="devtools">
                         <h2>Dev Tools:</h2>
@@ -32,7 +34,6 @@ class Technology extends Component {
                             <p>Github</p>
                             <p>Terminal</p>
                             <p>Jira</p>
-                            <p>Trello</p>
                             <p>Visual Studio Code</p>
                             <p>Postman</p>
                             <p>GraphQL</p>
