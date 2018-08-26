@@ -4,6 +4,35 @@
     font-family: 'Raleway', sans-serif; 
 }
 
+.technology-container {
+    width: 100%;
+}
+
+.devtools {
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+}
+
+.frontend {
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+}
+
+.backend {
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+}
+.frontend p {
+    padding-bottom: 24px;
+}
+
+.backend p {
+    padding-bottom: 66.6px;
+}
+
 p {
     font-size: 21px;
 }
