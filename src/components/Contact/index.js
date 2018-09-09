@@ -13,9 +13,9 @@ class Contact extends Component {
                     <a href="https://twitter.com/liansthumbs" rel="noopener noreferrer" target="_blank"><img src={require("../image/twitter.png")} alt="Twitter"/></a>
                     <a href="https://instagram.com/littleorphanliannie" rel="noopener noreferrer" target="_blank"><img src={require("../image/instagram.png")} alt="Instagram"/></a>
                 </div>
-                    <div className="contact-content">
-                        <p>I'm currently looking for new work opportuntites. If you'd like to collaborate on a project, drop me a line!</p>
-                    </div>
+                <div className="contact-content">
+                    <p>I'm currently looking for new work opportuntites. If you'd like to collaborate on a project, drop me a line!</p>
+                </div>
             </div>
         );
     }

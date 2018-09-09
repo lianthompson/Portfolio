@@ -1,9 +1,7 @@
 .jumbotron {
-    /* border: 5px solid red; */
     background-color: white !important;
-    /* margin-top: 0px; */
     padding-top: 0%;
-    height: 100vh;
+    overflow: hidden;
 }
 
 .jumbotron-container {
@@ -12,7 +10,7 @@
 
 .jumbotron h1 {
     margin-top: 60px;
-    font-size: 5vw !important;
+    font-size: 50px !important;
     font-family: 'Raleway', sans-serif;
 }
 

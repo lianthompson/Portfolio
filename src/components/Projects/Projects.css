@@ -1,20 +1,27 @@
 #Projects {
-    height: 100vh;
-    position: relative;
+    /* position: relative; */
     display: inline-block;
     padding: 50px;
     text-align: center;
     font-family: 'Raleway', sans-serif;
-}
-
-#project {
-    width: 50%;
-    display: inline-block;
-    padding: 50px;
-}
-
-#giphy {
+    overflow: hidden;
     width: 100%;
-    border-radius: 10px;
 }
+
+.img-fluid {
+    width: 500px;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.project {
+    display: inline-block;
+    margin: 20px;
+}
+
+.project-container {
+    width: 100%;
+}
+
 
