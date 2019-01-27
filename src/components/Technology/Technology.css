@@ -9,28 +9,18 @@
 
 .devtools {
     display: inline-block;
-    width: 30%;
-    height: 100%;
+    width: 33%;
 }
 
 .frontend {
     display: inline-block;
-    width: 30%;
-    height: 100%;
+    width: 33%;
 }
 
 .backend {
     display: inline-block;
-    width: 30%;
-    height: 100%;
+    width: 33%;
 
-}
-.frontend p {
-    padding-bottom: 23px;
-}
-
-.backend p {
-    padding-bottom: 39px;
 }
 
 p {
@@ -40,4 +30,21 @@ p {
 
 .header {
     padding-bottom: 10px;
+}
+
+@media screen and (max-width: 540px) {
+    .frontend {
+        width: 100%;
+        order: 0;
+    }
+
+    .backend {
+        width: 100%;
+        order: 1;
+    }
+
+    .devtools {
+        width: 100%;
+        order: 2;
+    }
 }

@@ -1,5 +1,4 @@
 #Projects {
-    /* position: relative; */
     display: inline-block;
     padding: 50px;
     text-align: center;
@@ -9,7 +8,7 @@
 }
 
 .img-fluid {
-    width: 500px;
+    width: 100%;
     border-radius: 10px;
     margin: 0 auto;
     display: inline-block;
@@ -23,5 +22,3 @@
 .project-container {
     width: 100%;
 }
-
-

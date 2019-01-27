@@ -15,17 +15,12 @@ class Technology extends Component {
                         <h2>Frontend:</h2>
                             <p>React</p>
                             <p>Javascript</p>
-                            <p>JQuery</p>
-                            <p>HTML</p>
-                            <p>CSS</p>
-                            <p>Apollo</p>
+                            <p>HTML & BEM CSS</p>
                     </div>
                     <div className="backend">
                         <h2>Backend:</h2>
                             <p>Node</p>
                             <p>Express</p>
-                            <p>MySQL</p>
-                            <p>MongoDB</p>
                             <p>Javascript</p>
                     </div>
                     <div className="devtools">
@@ -33,11 +28,6 @@ class Technology extends Component {
                             <p>Git</p>
                             <p>Github</p>
                             <p>Terminal</p>
-                            <p>Jira</p>
-                            <p>Visual Studio Code</p>
-                            <p>Postman</p>
-                            <p>GraphQL</p>
-                            <p>Sequel Pro</p>
                     </div>
                 </div>
             </div>
