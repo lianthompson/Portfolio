@@ -13,7 +13,7 @@
 
 .about p{
     font-size: 21px;
-    width: 50%;
+    width: 70%;
     margin: 0 auto;
     text-align: center;
 }
@@ -24,8 +24,14 @@ img.Profile {
 }
 
 @media screen and (max-width: 500px) {
-    .about p{
+    .about p {
         width: 80%;
         margin: 5px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .about p {
+        width: 60%;
     }
 }

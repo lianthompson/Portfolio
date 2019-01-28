@@ -9,7 +9,7 @@ class Technology extends Component {
                 <h1 className="header">
                     Full Stack Developer
                 </h1>
-                <p>With Javascript, I can seamlessly transition working from Frontend to Backend.</p>
+                <p className="technology-description">With Javascript, I can seamlessly transition working from Frontend to Backend.</p>
                 <div className="technology-container">
                     <div className="frontend">
                         <h2>Frontend:</h2>

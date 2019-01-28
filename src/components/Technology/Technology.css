@@ -28,6 +28,11 @@ p {
     padding-bottom: 5px;
 }
 
+.technology-description {
+    width: 80%;
+    margin: 0 auto;
+}
+
 .header {
     padding-bottom: 10px;
 }
