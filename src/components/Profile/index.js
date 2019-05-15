@@ -10,11 +10,12 @@ class Profile extends Component {
                 <h1>About Me</h1>
                 <img className="Profile" src={require("../image/headshot.png")} />
                     <div className="about">
-                        <p>Aside from coding, I love giving back to the community by volunteering at conferences and meetups. A few that I've been a part of are SXSW, Women Who Code, & Tech in the Tenderloin. 
+                        <p>I graduated with a B.A. in Art Education from St. Edward's University in Austin, TX. After moving to San Francisco, I learned about the different roles and opportunities there are in tech. This led me to realize my passion for creating and how that translated to web development.</p>
+
+                        <p>On Tuesdays, I host <a href="https://www.meetup.com/Women-Who-Code-SF/" alt="">Women Who Code's Javascript study group</a>. It's a laidback meetup where women and allies can code/network for two hours.</p>
+
+                        <p>When I'm not coding, you can find me hiking around the Bay Area or eating food. I'm also big into shopping sustainably and love to go thrifting. I sell a lot of the things I find on <a href="https://poshmark.com/closet/lianthompson" alt="">Poshmark</a>. I love giving back to the community by volunteering at conferences. A few that I've been a part of are SXSW, Grace Hopper Conference, & Women Who Code Connect. 
                         </p>
-                        <p>I'm also an active member of Write/Speak/Code & Women Who Code's SF chapter.
-                        </p>
-                        <p>When I'm not doing that stuff, I like to urban hike around the city, practice yoga, & consume mountains of food.</p>
                     </div>
                 </div>
             </div> 
